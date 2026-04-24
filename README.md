@@ -1,4 +1,4 @@
-# NumWorks App Template 📱
+# NumWorks App Template 
 
 Ce dossier contient le **code de base nécessaire pour créer sa propre application sur calculatrice NumWorks** en **C++ avec EADK**.
 
@@ -6,7 +6,7 @@ C’est un **template simple** pour démarrer rapidement un projet (jeu, outil, 
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - **C++**
 - **EADK**
@@ -30,7 +30,7 @@ NumWorks-App-Template/
 
 ---
 
-## 🧱 Base du code
+##  Base du code
 
 ```cpp
 #include "eadkpp.h"
@@ -56,7 +56,7 @@ int main() {
 
 ---
 
-## 🖥 Affichage
+##  Affichage
 
 Afficher du texte :
 
@@ -81,7 +81,7 @@ Display::pushRectUniform(
 
 ---
 
-## ⌨️ Clavier
+##  Clavier
 
 Exemple de détection de touche :
 
@@ -93,7 +93,7 @@ if (touches.keyDown(Keyboard::Key::OK)) {
 
 ---
 
-## 🔁 Boucle principale
+##  Boucle principale
 
 Toute la logique de l’application se fait ici :
 
@@ -110,7 +110,7 @@ while (1) {
 
 ---
 
-## 🚀 Utilisation
+##  Utilisation
 
 - copier ce dossier
 - renommer le projet
