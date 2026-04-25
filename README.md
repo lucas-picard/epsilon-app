@@ -91,7 +91,7 @@ if (touches.keyDown(Keyboard::Key::OK)) {
 }
 ```
 
----
+----
 
 ##  Boucle principale
 
