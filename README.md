@@ -117,7 +117,7 @@ while (1) {
 - modifier `eadk_app_name`
 - ajouter votre code dans la boucle principale
 
----
+----
 
 ## 💡 Idées de projets
 
