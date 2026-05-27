@@ -1,5 +1,5 @@
 # NumWorks App Template 
-ee
+e
 Ce dossier contient le **code de base nécessaire pour créer sa propre application sur calculatrice NumWorks** en **C++ avec EADK**.
 
 C’est un **template simple** pour démarrer rapidement un projet (jeu, outil, menu, animation, etc.).
